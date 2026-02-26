@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+scikit-learn
+opencv-python
+deepface
+streamlit-webrtc
+av
